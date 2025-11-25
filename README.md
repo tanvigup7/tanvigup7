@@ -1,14 +1,12 @@
-## Hi there 👋, I'm Tanvi Gupta
+## Hi, I'm Tanvi Gupta
 
-- 🔭 I’m currently working on building a **Gesture Based Music Controller** that uses hand movements to control sound in real time.
+- I’m currently **building TypeScript based validation frameworks** for text, embeddings, and TTS **to support RAG and agentic workflows with AWS Bedrock**.
   
-- 🌱 I’m currently diving into **LangChain, AWS Bedrock, and embedding models** to explore RAG and intelligent agent workflows.
+- I’m always excited to collaborate on innovative projects in **machine learning, computer vision, and creative tech**. Let's build something cool together!
   
-- 👯 I’m looking to collaborate on innovative projects in **AI, machine learning, computer vision, and creative tech**. Let's build something cool together!
+- You can reach me at tanvi9g@gmail.com.
   
-- 📫 Reach me at tanvi9g@gmail.com.
-  
-- ⚡ Fun fact: I love to create art, you can check out my portfolio [**here**](https://docs.google.com/presentation/d/1xzYtrg6wvb4CANT334P2XEPXpoSVM8I9dkieuG2J7y8/edit?usp=sharing).
+- Fun fact: I love to create art, you can check out my portfolio [**here**](https://docs.google.com/presentation/d/1xzYtrg6wvb4CANT334P2XEPXpoSVM8I9dkieuG2J7y8/edit?usp=sharing).
 
 ### 🔗 Connect with Me
 
